@@ -1,0 +1,14 @@
+AIM:
+To demonstrate the basic operations of python language
+
+Algorithm:
+Step 1: Start the program.
+Step 2: Declare, initialize, and display variables.
+Step 3: Get user input and display the values.
+Step 4: Initialize a = 15 and b = 4.
+Step 5: Perform arithmetic and comparison operations.
+Step 6: Demonstrate logical and assignment operators.
+Step 7: Demonstrate bitwise operators using a and b.
+Step 8: Demonstrate identity and membership operators.
+Step 9: Display all the results.
+Step 10: Stop the program.
